@@ -13,6 +13,7 @@
   "author": "M Haidar Hanif <npm@mhaidarhanif.com> (https://mhaidarhanif.com)",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.0.0-alpha.6"
+    "bootstrap": "4.0.0-alpha.6",
+    "jquery": "3.2.1"
   }
 }
