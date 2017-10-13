@@ -1,2 +1,5 @@
-# gunpla-collection
-Gunpla Collection
+# Gunpla Collection
+
+![Gundam](gundam.jpg)
+
+Simple app that displays gunpla collection.
