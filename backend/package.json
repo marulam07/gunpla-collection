@@ -1,0 +1,23 @@
+{
+  "name": "gc-backend",
+  "version": "1.0.0",
+  "description": "GC Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'TEST'",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "gunpla",
+    "backend"
+  ],
+  "author": "M Haidar Hanif <npm@mhaidarhanif.com> (https://mhaidarhanif.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.12.1"
+  }
+}
